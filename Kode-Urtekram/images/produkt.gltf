@@ -1,0 +1,574 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 3de52ae4ccc0c25be48106335282fae5a6a58dee",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 6153,
+            "type": "VEC3",
+            "max": [
+                0.034358568489551547,
+                0.12920059263706208,
+                0.034358568489551547
+            ],
+            "min": [
+                -0.034358568489551547,
+                0.0,
+                -0.034358568489551547
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 6153,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 6153,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 35136,
+            "type": "SCALAR",
+            "max": [
+                6152.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 3653,
+            "type": "VEC3",
+            "max": [
+                0.034358568489551547,
+                0.14589455723762513,
+                0.03435856103897095
+            ],
+            "min": [
+                -0.034358568489551547,
+                0.1141551062464714,
+                -0.034358568489551547
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 3653,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 3653,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 20448,
+            "type": "SCALAR",
+            "max": [
+                3652.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 60645,
+            "type": "VEC3",
+            "max": [
+                0.1315382570028305,
+                0.23211795091629029,
+                0.1632046401500702
+            ],
+            "min": [
+                -0.13154324889183045,
+                0.05171382799744606,
+                -0.16345885396003724
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 60645,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 60645,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 359070,
+            "type": "SCALAR",
+            "max": [
+                60644.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 73836,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 73836,
+            "byteLength": 73836,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 147672,
+            "byteLength": 49224,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 196896,
+            "byteLength": 140544,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 337440,
+            "byteLength": 43836,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 381276,
+            "byteLength": 43836,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 425112,
+            "byteLength": 29224,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 454336,
+            "byteLength": 81792,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 536128,
+            "byteLength": 727740,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1263868,
+            "byteLength": 727740,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1991608,
+            "byteLength": 485160,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2476768,
+            "byteLength": 1436280,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3913048,
+            "uri": "produkt_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "composited_baseColor_opacity",
+            "uri": "produkt_images/composited_baseColor_opacity.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "composited_roughness",
+            "uri": "produkt_images/composited_roughness.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture",
+            "uri": "produkt_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "composited_baseColor_opacity_0",
+            "uri": "produkt_images/composited_baseColor_opacity_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "composited_roughness_0",
+            "uri": "produkt_images/composited_roughness_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "basecolor_image_texture",
+            "uri": "produkt_images/basecolor_image_texture.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "roughness_image_texture",
+            "uri": "produkt_images/roughness_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture_0",
+            "uri": "produkt_images/normal_image_texture_0.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "alphaMode": "MASK",
+            "name": "Cardboard",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 4
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "alphaMode": "MASK",
+            "name": "Cardboard",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5711249113082886,
+                    0.6938719153404236,
+                    0.830769956111908,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "Water 2",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.9999847412109375,
+                    0.9999847412109375,
+                    0.9999847412109375,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 5
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 6
+                }
+            },
+            "normalTexture": {
+                "index": 7
+            },
+            "name": "Weave Fabric",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Canister",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Lid",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Splash",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "Splash 4",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.463411808013916,
+                0.2861354351043701,
+                0.46341192722320559
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3
+            ],
+            "translation": [
+                0.051473218947649,
+                5.9604643443123e-10,
+                0.11124558001756668
+            ],
+            "rotation": [
+                -0.04328690096735954,
+                0.007190680596977472,
+                0.03524535894393921,
+                0.9984148740768433
+            ],
+            "scale": [
+                1.0200881958007813,
+                1.5131254196166993,
+                1.0451592206954957
+            ],
+            "name": "Tube Package"
+        },
+        {
+            "mesh": 0,
+            "name": "Canister"
+        },
+        {
+            "mesh": 1,
+            "name": "Lid"
+        },
+        {
+            "translation": [
+                -0.0016781783197075129,
+                0.015272540971636773,
+                0.09497512876987457
+            ],
+            "rotation": [
+                0.17191413044929505,
+                0.9790562391281128,
+                0.09191036969423294,
+                0.05871056020259857
+            ],
+            "scale": [
+                1.0000001192092896,
+                0.7520371079444885,
+                0.5924321413040161
+            ],
+            "mesh": 2,
+            "name": "Splash 2"
+        },
+        {
+            "translation": [
+                0.04782469570636749,
+                0.007876195944845677,
+                0.10402437299489975
+            ],
+            "rotation": [
+                -0.021588990464806558,
+                -0.7260507345199585,
+                0.08915510773658753,
+                0.6814951300621033
+            ],
+            "scale": [
+                0.8276020884513855,
+                0.8620284199714661,
+                0.7388083934783936
+            ],
+            "mesh": 3,
+            "name": "Splash 4"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "composited_baseColor_opacity",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "composited_roughness",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "composited_baseColor_opacity",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "composited_roughness",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "basecolor_image_texture",
+            "sampler": 5,
+            "source": 5
+        },
+        {
+            "name": "roughness_image_texture",
+            "sampler": 6,
+            "source": 6
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 7,
+            "source": 7
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp": {
+            "@context": {
+                "dc": "http://purl.org/dc/elements/1.1/"
+            },
+            "packets": [
+                {
+                    "dc:date": "2021-12-14T14:44:39.662+01:00",
+                    "dc:format": "model/gltf+json",
+                    "dc:title": "produkt.dn",
+                    "xmp:CreatorTool": "Adobe Dimension"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp"
+    ]
+}
